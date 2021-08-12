@@ -1,9 +1,9 @@
 # Object_detection
 
-## results
+## Results
 display the objects in one picture with masks, boxes and labels 
 
-## build functions
+## Build functions
 * generate masks with bright color for target objects
 * generate different box color for objects
 * set the location of labels 
@@ -12,5 +12,5 @@ display the objects in one picture with masks, boxes and labels
 ## TIPS
 the result will be displayed even when any of these parameters in visualize function is false or true. Therefore, the condition statement is necessary in the function.
 
-## important
+## Important
 the function get_data is a critical part in this project.
